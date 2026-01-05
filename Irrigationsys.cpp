@@ -77,6 +77,25 @@ void initServo(uint servoPin) {
     setServoPWM(servoPin, 500); 
 }
 
+/*
+//passive buzzer control (PWM)
+//buzzer pwm
+void initBuzzer(uint buzzer) {
+    gpio_set_function(buzzer, GPIO_FUNC_PWM);
+    uint slice = pwm_gpio_to_slice_num(buzzer);
+    pwm_config config = pwm_get_default_config();
+    pwm_config_set_clkdiv(&config, 125.0f); 
+    pwm_config_set_wrap(&config, 1000);      
+    pwm_init(slice, &config, true);
+    pwm_set_gpio_level(buzzer, 500);      
+}
+
+void toggleBuzzer(uint buzzer, bool toggle) {
+    uint slice = pwm_gpio_to_slice_num(buzzer);
+    pwm_set_enabled(slice, toggle);
+}
+*/
+
 //30sec timer when pump starts
 uint8_t cycles = 0;
 uint8_t seconds[3] = {30, 30, 30};
