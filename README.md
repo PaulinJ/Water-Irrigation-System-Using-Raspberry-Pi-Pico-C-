@@ -131,4 +131,20 @@ The system was tested through simulation and controlled input scenarios to verif
 - Proper maintenance alert triggering
 
 ## SCHEMATIC
+<img width="718" height="342" alt="image" src="https://github.com/user-attachments/assets/912e83dc-3255-4da1-b89c-2156e716f44a" />
+
+## SCREENSHOTS
+<img width="724" height="1169" alt="image" src="https://github.com/user-attachments/assets/237756d1-bcad-440c-9c9e-c61a4af2d444" />
+<img width="941" height="1254" alt="image" src="https://github.com/user-attachments/assets/962ac233-feea-4064-8a59-0b6d8f34bc33" />
+<img width="941" height="1254" alt="image" src="https://github.com/user-attachments/assets/49640998-63bb-4723-ba35-b5d92785643f" />
+<img width="941" height="925" alt="image" src="https://github.com/user-attachments/assets/653362c9-314f-4024-97b5-83965cba9202" />
+
+
+
+
+
+
+
+
+
 
