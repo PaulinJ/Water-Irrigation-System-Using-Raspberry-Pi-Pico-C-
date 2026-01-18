@@ -7,7 +7,7 @@ This project implements a **Smart Irrigation System** using a **Raspberry Pi Pic
 
 The system continuously monitors soil moisture conditions, controls sprinkler heads automatically, manages watering duration, detects intrusions for safety, and provides real-time feedback through displays and indicators. **Multithreading** is implemented to ensure high-performance operation.
 
-This project was developed is  **focused on IoT systems, embedded design, and smart agriculture applications**.
+This project was developed with a  **focus on IoT systems, embedded design, and smart agriculture applications**.
 
 ---
 
